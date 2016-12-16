@@ -5,3 +5,6 @@ A python-based hash algorithm.
 
 # Updates
 This is currently slow, but will be improved to be more efficent.
+
+# Collaborators
+Vecs and FullyStealth
