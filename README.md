@@ -1,6 +1,6 @@
 # Snowflake
 A python-based hash algorithm.
-
+This project is currently at v1.
 - v2 coming out soon.
 
 # Updates
